@@ -6,4 +6,5 @@ Techniques included: Toon shading, L-system plant generation, procedurally gener
 
 # Demo
 Video Demo: https://www.youtube.com/watch?v=FVBOyvm0NEI   
+  
 ![](finding-mochi-demo.gif)
