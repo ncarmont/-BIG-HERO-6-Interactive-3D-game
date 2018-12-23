@@ -1,5 +1,4 @@
 # BIG HERO 6 Interactive 3D game (OpenGL)
-An interactive 3D OpenGL game where Baymax from Disney's BH6 has to try and find Mochi the cat.  
 (implement as xcode project, add linking/search-paths ->http://ivl.calit2.net/wiki/index.php/BasecodeCSE167F18)
 
 Toon shading, L-system plants, proced. generated buildings/city, bezier curves (C0), collision detection, player movement.
