@@ -1,8 +1,5 @@
 # BIG HERO 6 Interactive 3D game (OpenGL)
-(implement as xcode project, add linking/search-paths ->http://ivl.calit2.net/wiki/index.php/BasecodeCSE167F18)
-
-Toon shading, L-system plants, proced. generated buildings/city, bezier curves (C0), collision detection, player movement.
-
+Toon shading, L-system plants, proced. generated buildings/city, bezier curves (C0), collision detection, player movement.(implement as xcode project, add linking/search-paths ->http://ivl.calit2.net/wiki/index.php/BasecodeCSE167F18)  
 # Demo
 ![](finding-mochi-demo.gif)  
 
